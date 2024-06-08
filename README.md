@@ -8,7 +8,7 @@
 
 <h2 align="center">
   <a href="https://github.com/abdalwhabSalahaldeen">
-    <img src="https://komarev.com/ghpvc/?username=gemidroid&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=abdalwhabSalahaldeen&style=flat" alt="Profile Views"/>
   </a>
 </h2>
 <h2 align="center">📫 Reach me out on</h2>
