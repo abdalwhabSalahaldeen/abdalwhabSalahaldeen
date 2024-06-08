@@ -2,7 +2,7 @@
 <p align="center">  <a href="https://www.linkedin.com/in/abdalwhab-salah/">Open for Hiring</a></p>
 <h2 align="center">👨‍💻 Abdalwhab Salah</h2>
 <p align="center">
-  ![1689947402854](https://github.com/abdalwhabSalahaldeen/abdalwhabSalahaldeen/assets/43234860/97784213-4bc3-4387-b407-9dd37ef457d4)
+ <img href="https://github.com/abdalwhabSalahaldeen/abdalwhabSalahaldeen/assets/43234860/6ddf268d-08e4-4777-8a9d-fdace3be1759/>
 </p>
 <h7>A highly motivated full-stack and GIS developer with over 3 years of experience in web development and 1 year in mobile application development.</h7>
 
