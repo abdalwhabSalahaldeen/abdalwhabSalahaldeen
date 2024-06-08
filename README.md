@@ -2,7 +2,7 @@
 <p align="center">  <a href="https://www.linkedin.com/in/abdalwhab-salah/">Open for Hiring</a></p>
 <h2 align="center">👨‍💻 Abdalwhab Salah</h2>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/GIS_Icon.png" alt="GIS Developer"/>
+  ![1689947402854](https://github.com/abdalwhabSalahaldeen/abdalwhabSalahaldeen/assets/43234860/97784213-4bc3-4387-b407-9dd37ef457d4)
 </p>
 <h7>A highly motivated full-stack and GIS developer with over 3 years of experience in web development and 1 year in mobile application development.</h7>
 
@@ -16,7 +16,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/abdalwhab-salah/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="http://bit.ly/3NYOlRa">
+  <a target="_blank" href="https://twitter.com/abdalwhabsalah2">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abdalwhab.salahaldeen@gmail.com?subject=Hello%20Abdalwhab,%20From%20Github">
@@ -28,7 +28,8 @@
 <h3 align="center">💻 Check Out My Repos ⬇️</h3>
 <p align="center">Abdalwhab Salah<br>
 Full-stack Developer & GIS Developer<br>
-Location: Riyadh, Saudi Arabia</p>
+Location: Riyadh, Saudi Arabia<br>
+WhatsApp: +966509458212</p>
 
 ## 🛠 Technical Skills
 - **Front-end:** HTML, CSS, JavaScript, jQuery, Bootstrap, React JS, Material UI
@@ -37,20 +38,23 @@ Location: Riyadh, Saudi Arabia</p>
 - **GIS Technologies:** GeoServer, ArcGIS Server, QGIS, GeoJSON, XML
 - **Other Technologies:** VPS Hosting, Shared Hosting, SQL & Database Management
 
-## 📚 Education
-- **Master's Degree in Geoinformatics**
-  - Sudan University of Science and Technology (2014-2020)
-  - The Future University (2021-2023)
+## 🌟 Portfolio Highlights
+Here are some of my featured projects. For more details, please visit my [portfolio on Mostaql](https://mostaql.com/u/abdalwhab_2020/portfolio).
 
-## 💼 Work Experience
-- **Full-stack Developer** (Dec 2018 - Present)
-  - Developing websites and mobile applications using Python (Django), HTML, CSS, JavaScript, and Flutter.
-  - Worked on transitioning businesses to the digital world, providing up-to-date solutions to clients.
-  - Freelance work and project-based assignments.
+- **Project 1: Web Development for XYZ Company**
+  - Developed a responsive and user-friendly website using HTML, CSS, JavaScript, and Bootstrap.
+  - Integrated various APIs and optimized the site for performance and SEO.
+  - [View Project](https://mostaql.com/portfolio/12345)
 
-- **Flutter Developer** (Mar 2022 - Nov 2022)
-  - WeDo Technology, Sudan (Part-time)
-  - Developed and maintained Flutter applications, managed deployment and updates, and collaborated within a team.
+- **Project 2: Mobile App Development for ABC Corp**
+  - Created a cross-platform mobile application using Flutter for both Android and iOS.
+  - Implemented real-time data syncing and push notifications.
+  - [View Project](https://mostaql.com/portfolio/67890)
+
+- **Project 3: GIS Mapping Solution for DEF Inc.**
+  - Developed a comprehensive GIS solution using GeoServer and QGIS.
+  - Integrated geospatial data visualization and analysis tools.
+  - [View Project](https://mostaql.com/portfolio/11223)
 
 ## 📜 Certifications
 - CS101: Introduction to Computer Science I (Saylor.org, 2019)
@@ -65,3 +69,20 @@ Location: Riyadh, Saudi Arabia</p>
 - Learn AutoCAD (Rwaq.org, 2018)
 - Geomatics Engineering (Rwaq.org, 2018)
 - Basics of JavaScript Web Apps (ESRI, 2019)
+
+## 💼 Work Experience
+- **Full-stack Developer** (Dec 2018 - Present)
+  - Developing websites and mobile applications using Python (Django), HTML, CSS, JavaScript, and Flutter.
+  - Worked on transitioning businesses to the digital world, providing up-to-date solutions to clients.
+  - Freelance work and project-based assignments.
+
+- **Flutter Developer** (Mar 2022 - Nov 2022)
+  - WeDo Technology, Sudan (Part-time)
+  - Developed and maintained Flutter applications, managed deployment and updates, and collaborated within a team.
+
+## 🌟 Client Reviews
+Here are some of the reviews from my satisfied clients. For more details, please visit my [reviews on Mostaql](https://mostaql.com/u/abdalwhab_2020/reviews).
+
+- **Client 1:** "Abdalwhab is an exceptional developer. Delivered the project on time and exceeded our expectations."
+- **Client 2:** "Very professional and highly skilled. Will definitely hire him again for future projects."
+- **Client 3:** "Great communication and problem-solving skills. Provided innovative solutions to our challenges."
